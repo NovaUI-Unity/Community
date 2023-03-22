@@ -19,4 +19,4 @@ Welcome to the [Nova](https://novaui.io/) community repo.
 
 Please use the [Discussions](https://github.com/NovaUI-Unity/Community/discussions) to [ask questions](https://github.com/NovaUI-Unity/Community/discussions/categories/q-a), [share code and tips/tricks](https://github.com/NovaUI-Unity/Community/discussions/categories/sharing), [showcase your project](https://github.com/NovaUI-Unity/Community/discussions/categories/showcase), or [poll the community](https://github.com/NovaUI-Unity/Community/discussions/categories/polls).
 
-NOTE: These discussions are meant to be community driven. To file a bug, make a feature request, or ask the Nova development team a question, please use the [Feedback forum](https://github.com/NovaUI-Unity/Feedback/discussions).
+NOTE: These discussions are meant to be community driven. To file a bug, make a feature request, or share your feedback with the Nova development team, please use the [Feedback forum](https://github.com/NovaUI-Unity/Feedback/discussions).
